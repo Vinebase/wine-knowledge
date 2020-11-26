@@ -1,0 +1,461 @@
+Level_1,Level_2,Level_3
+Brettanomyces,Animal,Feral
+Brettanomyces,Animal,Foxy
+Brettanomyces,Animal,Musky
+Brettanomyces,Animal,Sweat
+Brettanomyces,Bacon,Bacon
+Brettanomyces,Bacon,Smoked Bacon
+Brettanomyces,Barnyard,Barnyard
+Brettanomyces,Barnyard,Funky
+Brettanomyces,Barnyard,Horsey
+Brettanomyces,Barnyard,Saddle Leather
+Brettanomyces,Medicinal,Band-Aid
+Brettanomyces,Medicinal,Medicinal
+Caramel,Biscuit,Apple Pie
+Caramel,Biscuit,Blueberry Pie
+Caramel,Biscuit,Cake
+Caramel,Biscuit,Cherry Pie
+Caramel,Biscuit,Cookie
+Caramel,Biscuit,Cracker
+Caramel,Biscuit,Graham Cracker
+Caramel,Biscuit,Pastry
+Caramel,Biscuit,Pie
+Caramel,Caramel,Brown Butter
+Caramel,Caramel,Brown Sugar
+Caramel,Caramel,Butter Popcorn
+Caramel,Caramel,Buttercream
+Caramel,Caramel,Butterscotch
+Caramel,Caramel,Caramel
+Caramel,Caramel,Crème Brulee
+Caramel,Caramel,Custard
+Caramel,Caramel,Fudge
+Caramel,Caramel,Lemon Custard
+Caramel,Caramel,Lemon Meringue
+Caramel,Caramel,Maple Syrup
+Caramel,Caramel,Marshmallow
+Caramel,Caramel,Molasses
+Caramel,Caramel,Popcorn
+Caramel,Caramel,Soy
+Caramel,Caramel,Soy Sauce
+Caramel,Caramel,Toffee
+Caramel,Chocolate,Carob
+Caramel,Chocolate,Chocolate
+Caramel,Chocolate,Cocoa
+Caramel,Chocolate,Coco Nib
+Caramel,Chocolate,Dark Chocolate
+Caramel,Chocolate,Milk Chocolate
+Caramel,Honey,Beeswax
+Caramel,Honey,Botrytis
+Caramel,Honey,Honey
+Caramel,Honey,Clover Honey
+Caramel,Honey,Honeycomb
+Caramel,Honey,Honeysuckle
+Earth Inorganic,Graphite,Charcoal
+Earth Inorganic,Graphite,Graphite
+Earth Inorganic,Graphite,Pencil Lead
+Earth Inorganic,Graphite,Pencil Shaving
+Earth Inorganic,Metal,Iron
+Earth Inorganic,Metal,Metal
+Earth Inorganic,Metal,Steel
+Earth Inorganic,Oil,Camphor
+Earth Inorganic,Oil,Candle Wax
+Earth Inorganic,Oil,Lanolin
+Earth Inorganic,Oil,Oil
+Earth Inorganic,Oil,Oily
+Earth Inorganic,Oil,Slick
+Earth Inorganic,Oil,Soapy
+Earth Inorganic,Oil,Wax
+Earth Inorganic,Petroleum,Asphalt
+Earth Inorganic,Petroleum,Chemical
+Earth Inorganic,Petroleum,Diesel
+Earth Inorganic,Petroleum,Petrol
+Earth Inorganic,Petroleum,Plastic
+Earth Inorganic,Petroleum,Tar
+Earth Inorganic,Rocks,Cement
+Earth Inorganic,Rocks,Chalk
+Earth Inorganic,Rocks,Clay
+Earth Inorganic,Rocks,Concrete
+Earth Inorganic,Rocks,Flint
+Earth Inorganic,Rocks,Granite
+Earth Inorganic,Rocks,Gravel
+Earth Inorganic,Rocks,Limestone
+Earth Inorganic,Rocks,Mineral
+Earth Inorganic,Rocks,Minerality
+Earth Inorganic,Rocks,Rocks
+Earth Inorganic,Rocks,Rocky
+Earth Inorganic,Rocks,Slate
+Earth Inorganic,Rocks,Stone
+Earth Inorganic,Rocks,Struck Flint
+Earth Inorganic,Rocks,Wet Clay
+Earth Inorganic,Rocks,Wet Stone
+Earth Inorganic,Rocks,Wet Rocks
+Earth Inorganic,Rubber,Latex
+Earth Inorganic,Rubber,Rubber
+Earth Inorganic,Rubber,Tire Rubber
+Earth Organic,Mushroom,Mushroom
+Earth Organic,Mushroom,Truffle
+Earth Organic,Soil,Compost
+Earth Organic,Soil,Dust
+Earth Organic,Soil,Earth
+Earth Organic,Soil,Earthy
+Earth Organic,Soil,Loamy
+Earth Organic,Soil,Moist Earth
+Earth Organic,Soil,Mulch
+Earth Organic,Soil,Scorched Earth
+Earth Organic,Soil,Soil
+Earth Organic,Soil,Wet Earth
+Earth Organic,Undergrowth,Forest Floor
+Earth Organic,Undergrowth,Moss
+Earth Organic,Undergrowth,Root
+Earth Organic,Undergrowth,Undergrowth
+Flower,Flowery,Acacia
+Flower,Flowery,Apple Blossom
+Flower,Flowery,Blossom
+Flower,Flowery,Blue Flower
+Flower,Flowery,Chamomile
+Flower,Flowery,Elderflower
+Flower,Flowery,Dandelion
+Flower,Flowery,Flower
+Flower,Flowery,Hibiscus
+Flower,Flowery,Jasmine
+Flower,Flowery,Lavender
+Flower,Flowery,Lilac
+Flower,Flowery,Nectar
+Flower,Flowery,Orange Blossom
+Flower,Flowery,Perfumed
+Flower,Flowery,Petal
+Flower,Flowery,Pollen
+Flower,Flowery,Potpourri
+Flower,Flowery,Purple Flower
+Flower,Flowery,Rose
+Flower,Flowery,Rose Petal
+Flower,Flowery,Rosewater
+Flower,Flowery,Spring Flower
+Flower,Flowery,Violet
+Flower,Flowery,Violet Rose
+Flower,Flowery,White Blossom
+Flower,Flowery,White Flower
+Flower,Flowery,Wild Flower
+Flower,Flowery,Wildflower
+Flower,Flowery,Yellow Flower
+Fruit,Citrus Fruit,Bergamot
+Fruit,Citrus Fruit,Blood Orange
+Fruit,Citrus Fruit,Citrus
+Fruit,Citrus Fruit,Citrus Peel
+Fruit,Citrus Fruit,Citrus Pith
+Fruit,Citrus Fruit,Grapefruit
+Fruit,Citrus Fruit,Grapefruit Peel
+Fruit,Citrus Fruit,Grapefruit Pith
+Fruit,Citrus Fruit,Kumquat
+Fruit,Citrus Fruit,Lemon
+Fruit,Citrus Fruit,Lemon Blossom
+Fruit,Citrus Fruit,Lemon Curd
+Fruit,Citrus Fruit,Lemon Drop
+Fruit,Citrus Fruit,Lemon Peel
+Fruit,Citrus Fruit,Lemon Pith
+Fruit,Citrus Fruit,Lemon Verbena
+Fruit,Citrus Fruit,Lime
+Fruit,Citrus Fruit,Persian Lime
+Fruit,Citrus Fruit,Lime Peel
+Fruit,Citrus Fruit,Lime Pith
+Fruit,Citrus Fruit,Mandarin
+Fruit,Citrus Fruit,Marmalade
+Fruit,Stone Fruit,Nectarine
+Fruit,Stone Fruit,White Nectarine
+Fruit,Citrus Fruit,Orange
+Fruit,Citrus Fruit,Orange Marmalade
+Fruit,Citrus Fruit,Orange Peel
+Fruit,Citrus Fruit,Pith
+Fruit,Citrus Fruit,Preserved Lemon
+Fruit,Citrus Fruit,Rind
+Fruit,Citrus Fruit,Tangerine
+Fruit,Citrus Fruit,Tangerine Peel
+Fruit,Citrus Fruit,Zest
+Fruit,Dark Fruit,Black Currant
+Fruit,Dark Fruit,Black Fruit
+Fruit,Dark Fruit,Blackberry
+Fruit,Dark Fruit,Briary Blackberry
+Fruit,Dark Fruit,Blackberry Jam
+Fruit,Dark Fruit,Blackberry Compote
+Fruit,Dark Fruit,Blackcurrant
+Fruit,Dark Fruit,Blue Fruit
+Fruit,Dark Fruit,Blueberry
+Fruit,Dark Fruit,Bramble
+Fruit,Dark Fruit,Brambleberry
+Fruit,Dark Fruit,Cassis
+Fruit,Dark Fruit,Currant
+Fruit,Dark Fruit,Dark Berry
+Fruit,Dark Fruit,Dark Fruit
+Fruit,Dark Fruit,Elderberry
+Fruit,Dark Fruit,Huckleberry
+Fruit,Dark Fruit,Mulberry
+Fruit,Dark Fruit,Olallieberry
+Fruit,Dark Fruit,Plum
+Fruit,Dark Fruit,Red Plum
+Fruit,Dark Fruit,Stewed Plum
+Fruit,Dried Fruit,Cooked
+Fruit,Dried Fruit,Fig
+Fruit,Dried Fruit,Prune
+Fruit,Dried Fruit,Prune Raisin
+Fruit,Dried Fruit,Dried Apricot
+Fruit,Dried Fruit,Raisin
+Fruit,Dried Fruit,Raisin Prune
+Fruit,Dried Fruit,Stewed Prune
+Fruit,Fruity,Fruit
+Fruit,Fruity,Fruit-Forward
+Fruit,Fruity,Fruity
+Fruit,Fruity,Inky
+Fruit,Fruity,Juicy
+Fruit,Fruity,Overripe
+Fruit,Fruity,Pulpy
+Fruit,Fruity,Reductive
+Fruit,Fruity,Ripe
+Fruit,Fruity,Sorbet
+Fruit,Fruity,Super Ripe
+Fruit,Fruity,Underripe
+Fruit,Fruity,Unripe
+Fruit,Melon,Cataloupe
+Fruit,Melon,Honeydew
+Fruit,Melon,Melon
+Fruit,Melon,Melon Rind
+Fruit,Melon,Watermelon
+Fruit,Melon,Watermelon Rind
+Fruit,Red Fruit,Berry
+Fruit,Red Fruit,Black Cherry
+Fruit,Red Fruit,Boysenberry
+Fruit,Red Fruit,Cherry
+Fruit,Red Fruit,Sour Cherry
+Fruit,Red Fruit,Cherry Liqueur
+Fruit,Red Fruit,Maraschino Cherry
+Fruit,Red Fruit,Compote
+Fruit,Red Fruit,Cotton Candy
+Fruit,Red Fruit,Cranberry
+Fruit,Red Fruit,Gooseberry
+Fruit,Red Fruit,Grapey
+Fruit,Red Fruit,Gummy
+Fruit,Red Fruit,Jam
+Fruit,Red Fruit,Jelly
+Fruit,Red Fruit,Kirsch
+Fruit,Red Fruit,Pomegranate
+Fruit,Red Fruit,Raspberry
+Fruit,Red Fruit,Red Berry
+Fruit,Red Fruit,Red Currant
+Fruit,Red Fruit,Red Fruit
+Fruit,Red Fruit,Strawberry
+Fruit,Red Fruit,White Currant
+Fruit,Red Fruit,Wild Berry
+Fruit,Red Fruit,Woody Berry
+Fruit,Stone Fruit,Apricot
+Fruit,Stone Fruit,Grilled Peach
+Fruit,Stone Fruit,Nectarine
+Fruit,Stone Fruit,Peach
+Fruit,Stone Fruit,Peach Pit
+Fruit,Stone Fruit,Stone Fruit
+Fruit,Stone Fruit,White Fruit
+Fruit,Stone Fruit,Yellow Fruit
+Fruit,Tree Fruit,Apple
+Fruit,Tree Fruit,Fuji Apple
+Fruit,Tree Fruit,Green Apple
+Fruit,Tree Fruit,Granny Smith Apple
+Fruit,Tree Fruit,Apple Sauce
+Fruit,Tree Fruit,Baked Apple
+Fruit,Tree Fruit,Cider
+Fruit,Tree Fruit,Green Fruit
+Fruit,Tree Fruit,Pear
+Fruit,Tree Fruit,Bosc Pear
+Fruit,Tree Fruit,Quince
+Fruit,Tree Fruit,Tree Fruit
+Fruit,Tropical Fruit,Banana
+Fruit,Tropical Fruit,Bubble Gum
+Fruit,Tropical Fruit,Bubblegum
+Fruit,Tropical Fruit,Candy
+Fruit,Tropical Fruit,Green Banana
+Fruit,Tropical Fruit,Guava
+Fruit,Tropical Fruit,Kiwi
+Fruit,Tropical Fruit,Lychee
+Fruit,Tropical Fruit,Mango
+Fruit,Tropical Fruit,Papaya
+Fruit,Tropical Fruit,Passion Fruit
+Fruit,Tropical Fruit,Persimmon
+Fruit,Tropical Fruit,Pineapple
+Fruit,Tropical Fruit,Tropical Fruit
+Microbial,Lactic,Butter
+Microbial,Lactic,Cheese
+Microbial,Lactic,Cream
+Microbial,Lactic,Creamy
+Microbial,Lactic,Lactic
+Microbial,Lactic,Melted Butter
+Microbial,Yeast,Yeast
+Microbial,Yeasty,Baked Bread
+Microbial,Yeasty,Bread
+Microbial,Yeasty,Bread Crust
+Microbial,Yeasty,Brioche
+Microbial,Yeasty,Lees
+Nutty,Nutty,Almond
+Nutty,Nutty,Bitter Almond
+Nutty,Nutty,Butter Nut
+Nutty,Nutty,Cashew
+Nutty,Nutty,Hazelnut
+Nutty,Nutty,Nut
+Nutty,Nutty,Peanut
+Nutty,Nutty,Roasted Almond
+Nutty,Nutty,Smoked Nut
+Nutty,Nutty,Toasted Almond
+Nutty,Nutty,Toasted Hazelnut
+Nutty,Nutty,Toasted Nut
+Nutty,Nutty,Walnut
+Nutty,Nutty,White Almond
+Salinity,Salinity,Brine
+Salinity,Salinity,Iodine
+Salinity,Salinity,Ocean
+Salinity,Salinity,Saline
+Salinity,Salinity,Salt
+Spice,Baking Spices,Allspice
+Spice,Baking Spices,Anise
+Spice,Baking Spices,Asian Spice
+Spice,Baking Spices,Baking Spices
+Spice,Baking Spices,Brown Spice
+Spice,Baking Spices,Cake Spice
+Spice,Baking Spices,Cardamom
+Spice,Baking Spices,Cinnamon
+Spice,Baking Spices,Clove
+Spice,Baking Spices,Clove Cinnamon
+Spice,Baking Spices,Cola
+Spice,Baking Spices,Cherry Cola
+Spice,Baking Spices,Cooked Spice
+Spice,Baking Spices,Dr Pepper
+Spice,Baking Spices,Ginger
+Spice,Baking Spices,Gingerbread
+Spice,Baking Spices,Indian Spice
+Spice,Baking Spices,Licorice
+Spice,Baking Spices,Mace
+Spice,Baking Spices,Mustard
+Spice,Baking Spices,Nutmeg
+Spice,Baking Spices,Rum Cake
+Spice,Baking Spices,Shoe Polish
+Spice,Baking Spices,Spice
+Spice,Baking Spices,Spice Cake
+Spice,Baking Spices,Star Anise
+Spice,Pepper,Black Pepper
+Spice,Pepper,Green Pepper
+Spice,Pepper,Pepper
+Spice,Pepper,Peppery
+Spice,Pepper,White Pepper
+Spice,Saffron,Saffron
+Sulfides,Leather,Leather
+Sulfides,Meat,Barbecue
+Sulfides,Meat,Beef
+Sulfides,Meat,Beef Jerky
+Sulfides,Meat,Cured Meat
+Sulfides,Meat,Game
+Sulfides,Meat,Grilled Meat
+Sulfides,Meat,Ham
+Sulfides,Meat,Meat
+Sulfides,Meat,Roast Beef
+Sulfides,Meat,Roasted Meat
+Sulfides,Meat,Sanguine
+Sulfides,Meat,Steak
+Sulfides,Sulfur,Matchstick
+Sulfides,Sulfur,Sulfur
+Vegetal,Dried Herbs,Black Tea
+Vegetal,Dried Herbs,Hay
+Vegetal,Dried Herbs,Tea
+Vegetal,Dried Herbs,Tobacco
+Vegetal,Fresh Herbs,Alpine Herbs
+Vegetal,Fresh Herbs,Basil
+Vegetal,Fresh Herbs,Bay Leaf
+Vegetal,Fresh Herbs,Cut Grass
+Vegetal,Fresh Herbs,Dill
+Vegetal,Fresh Herbs,Dried Herb
+Vegetal,Fresh Herbs,Grass
+Vegetal,Fresh Herbs,Grilled Herbs
+Vegetal,Fresh Herbs,Herb
+Vegetal,Fresh Herbs,Herbacious
+Vegetal,Fresh Herbs,Herbs
+Vegetal,Fresh Herbs,Lemongrass
+Vegetal,Fresh Herbs,Marjoram
+Vegetal,Fresh Herbs,Meditteranean Herbs
+Vegetal,Fresh Herbs,Menthol
+Vegetal,Fresh Herbs,Mint
+Vegetal,Fresh Herbs,Oregano
+Vegetal,Fresh Herbs,Rosemary
+Vegetal,Fresh Herbs,Sage
+Vegetal,Fresh Herbs,Spearmint
+Vegetal,Fresh Herbs,Stalky
+Vegetal,Fresh Herbs,Stemmy
+Vegetal,Fresh Herbs,Tarragon
+Vegetal,Fresh Herbs,Thyme
+Vegetal,Fresh Herbs,Weed
+Vegetal,Leaves,Eucalyptus
+Vegetal,Leaves,Juniper
+Vegetal,Leaves,Leafy
+Vegetal,Leaves,Nettle
+Vegetal,Leaves,Pine
+Vegetal,Leaves,Reedy
+Vegetal,Leaves,Sappy
+Vegetal,Leaves,Sassafras
+Vegetal,Vegetable,Asparagus
+Vegetal,Vegetable,Beet
+Vegetal,Vegetable,Beetroot
+Vegetal,Vegetable,Bell Pepper
+Vegetal,Vegetable,Celery
+Vegetal,Vegetable,Corn
+Vegetal,Vegetable,Cucumber
+Vegetal,Vegetable,Fennel
+Vegetal,Vegetable,Green Bean
+Vegetal,Vegetable,Green Pepper
+Vegetal,Vegetable,Jalapeno
+Vegetal,Vegetable,Lettuce
+Vegetal,Vegetable,Olive
+Vegetal,Vegetable,Pea
+Vegetal,Vegetable,Pyrazines
+Vegetal,Vegetable,Rhubarb
+Vegetal,Vegetable,Savory
+Vegetal,Vegetable,Tomato
+Vegetal,Vegetable,Umami
+Vegetal,Vegetable,Vegetal
+Vegetal,Vegetables,Jalapeno
+Woody,Oak,Oak
+Woody,Resinous,American Oak
+Woody,Resinous,Bark
+Woody,Resinous,Cedar
+Woody,Resinous,Coconut
+Woody,Resinous,French Oak
+Woody,Resinous,Grain
+Woody,Resinous,Hickory
+Woody,Resinous,Maple
+Woody,Resinous,Neutral Oak
+Woody,Resinous,New Oak
+Woody,Resinous,New Wood
+Woody,Resinous,Oak
+Woody,Resinous,Oak-Driven
+Woody,Resinous,Over-Oaked
+Woody,Resinous,Pine
+Woody,Resinous,Resin
+Woody,Resinous,Sandalwood
+Woody,Resinous,Sawdust
+Woody,Resinous,Toasted Coconut
+Woody,Resinous,Tree Bark
+Woody,Resinous,Vanilla
+Woody,Resinous,Vanilla Cream
+Woody,Resinous,Wood
+Woody,Resinous,Wood Age
+Woody,Resinous,Wood Resin
+Woody,Resinous,Wood Spice
+Woody,Toasted,Ash
+Woody,Toasted,Burnt
+Woody,Toasted,Burnt Toast
+Woody,Toasted,Buttery Toast
+Woody,Toasted,Campfire
+Woody,Toasted,Charred Wood
+Woody,Toasted,Cigar
+Woody,Toasted,Cigar Box
+Woody,Toasted,Coffee
+Woody,Toasted,Espresso
+Woody,Toasted,Hickory Smoke
+Woody,Toasted,Incense
+Woody,Toasted,Smoke
+Woody,Toasted,Smoked Meat
+Woody,Toasted,Smoky
+Woody,Toasted,Toast
+Woody,Toasted,Toasty Oak
