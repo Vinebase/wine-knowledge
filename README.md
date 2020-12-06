@@ -1,6 +1,6 @@
 # Wine Knowledge Repository
 
-This is an open-source repository dedicated to quantifying and sharing the world's wine knowledge. 
+This is an open-source repository dedicated to quantifying and sharing taxonomy standards for the world of wine.
 
 ## Philosophy
 
