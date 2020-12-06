@@ -1,0 +1,73 @@
+Category,Varietal or Blend,Varietal/Blend,Wine Style,Description (mainly intended for self-onboarding instructions)
+White,Varietal,Chardonnay,Chardonnay,A wine made with Chardonnay grapes.
+White,Varietal,Chardonnay,Chablis-style Chardonnay,"An unoaked, mineral-driven and high-acid style of Chardonnay."
+White,Varietal,Chardonnay,California-style Chardonnay,"An oaked, fruit-forward style of Chardonnay with a creamy mouthfeel. "
+White,Varietal,Chardonnay,Burgundy-style Chardonnay,"A balanced, earthy style of Chardonnay with some oak aging. "
+White,Varietal,Sauvignon Blanc,Sauvignon Blanc,A wine made with Sauvignon Blanc grapes.
+White,Varietal,Sauvignon Blanc,Bordeaux-style Sauvignon Blanc,"An oaked, richer style of Sauvignon Blanc."
+White,Varietal,Sauvignon Blanc,New Zealand-style Sauvignon Blanc,"A crisp, highly aromatic and herbaceous style of Sauvignon Blanc."
+White,Varietal,Sauvignon Blanc,Loire-style Sauvignon Blanc,"A restrained, mineral-driven style of Sauvignon Blanc."
+White,Varietal,Riesling,Riesling,A wine made with Riesling grapes.
+White,Varietal,Riesling,Mosel-style Riesling,"A style of Riesling that ranges from dry to sweet, but with a distinctive nose with notes of petroleum."
+White,Varietal,Riesling,Australian-style Riesling,A bone dry style of Riesling with intense aromatics and searing acid.
+White,Varietal,Riesling,Alsace-style Riesling,"An elegant and dry style of Riesling, with floral hints and plenty of fruit. "
+White,Varietal,Gewürztraminer,Gewürztraminer,A wine made with Gewürztraminer grapes.
+White,Varietal,Pinot Gris,Pinot Gris,A wine made with Pinot Gris grapes (also called Pinot Grigio).
+White,Varietal,Grüner Veltliner,Grüner Veltliner,A wine made with Grüner Veltliner grapes.
+White,Varietal,Albariño,Albariño,A wine made with Albariño grapes.
+White,Varietal,Chenin Blanc,Chenin Blanc,A wine made with Chenin Blanc grapes.
+White,Varietal,Muscat Blanc,Muscat Blanc,A wine made with Muscat Blanc grapes.
+White,Varietal,Viognier,Viognier,A wine made with Viognier grapes.
+White,Varietal,Semillon,Semillon,A wine made with Semillon grapes.
+White,Varietal,Other,Other White,"A white wine made with other grape varietals, not listed in this overview."
+White,Blend,Other,White Blend,A white wine that is a blend of different grapes.
+White,Blend,Bordeaux-style White Blend,Bordeaux-style White Blend,"A blend of Sauvignon Blanc and Semillon grapes, sometimes including the lesser-known Muscadelle."
+White,Blend,Rhône-style White Blend,Rhône-style White Blend,"An aromatic, full-bodied white wine that contains at least two Rhone varieties such as Viognier, Marsanne, Roussanne and Grenache Blanc."
+White,Blend,Rioja-style White Blend,Rioja-style White Blend,"An ageworthy style of wine made with white wine grapes, one of which must be Viura."
+Red,Varietal,Cabernet Sauvignon,Cabernet Sauvignon,A wine made with Cabernet Sauvignon grapes.
+Red,Varietal,Cabernet Sauvignon,California-style Cabernet Sauvignon,"A full-bodied, high-alcohol and fruit-forward style of Cabernet Sauvignon."
+Red,Varietal,Merlot,Merlot,A wine made with Merlot grapes.
+Red,Varietal,Merlot,California-style Merlot,"A full-bodied, fruit-forward and softer style of Merlot."
+Red,Varietal,Pinot Noir,Pinot Noir,A wine made with Pinot Noir grapes.
+Red,Varietal,Pinot Noir,Burgundy-style Pinot Noir,"An elegant, restrained style of Pinot Noir with an earthy profile."
+Red,Varietal,Pinot Noir,California-style Pinot Noir,"A softer, rich and fruit-forward style of Pinot Noir."
+Red,Varietal,Syrah,Syrah,A wine made with Syrah grapes.
+Red,Varietal,Syrah,Northern Rhône-style Syrah,"A lean, savory and high-acid style of Syrah with firm tannins."
+Red,Varietal,Syrah,Australian-style Shiraz,"A bold, fruit-forward style of Syrah with some sweetness."
+Red,Varietal,Cabernet Franc,Cabernet Franc,A wine made with Cabernet Franc grapes.
+Red,Varietal,Cabernet Franc,Loire-style Cabernet Franc,"A lean, savory style of Cabernet Franc, often from a cool climate. "
+Red,Varietal,Zinfandel,Zinfandel,A wine made with Zinfandel grapes.
+Red,Varietal,Zinfandel,California-style Zinfandel,"A full-bodied, fruit-forward style of Zinfandel, often with very high alcohol levels. "
+Red,Varietal,Zinfandel,Italian-style Primitivo,"An earthy, more tannic style of Zinfandel."
+Red,Varietal,Tempranillo,Tempranillo,A wine made with Tempranillo grapes.
+Red,Varietal,Nebbiolo,Nebbiolo,A wine made with Nebbiolo grapes.
+Red,Varietal,Grenache,Grenache,A wine made with Grenache grapes.
+Red,Varietal,Sangiovese,Sangiovese,A wine made with Sangiovese grapes.
+Red,Varietal,Malbec,Malbec,A wine made with Malbec grapes.
+Red,Varietal,Other,Other Red,"A red wine made with other red wine grapes, not listed in this overview. "
+Red,Blend,Bordeaux-style Blend,Bordeaux-style Red Blend,"A blend of two or more of the classic Bordeaux varieties: Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Carmenere and Malbec."
+Red,Blend,GSM Blend,GSM Blend,"A blend of Grenache, Syrah and Mourvedre, best known for its origins in the Southern Rhône region of France."
+Red,Blend,Super Tuscan,Super Tuscan Blend,A blend of Bordeaux varietals and (often) Sangiovese and/or Syrah.
+Red,Blend,Meritage,Meritage Blend,"An American blend of Bordeaux varietals, with no more than 90% of any single grape. "
+Red,Blend,Rioja Blend,Rioja-style Red Blend,"A Tempranillo-dominant blend, often also consisting of other grapes such as Grenache (Garnacha), Manzuelo and Graciano."
+Red,Blend,Priorat-style Blend,Priorat-style Blend,"A Grenache and Carignan-dominant blend, known for its origins in the Priorat region of Spain."
+Red,Blend,Chianti-style Blend,Chianti-style Blend,"A Sangiovese-dominant blend, often mixed in with small quantities of other Tuscan varietals. "
+Red,Blend,Other,Other Red Blend,A red wine that is a blend of different grapes.
+Rosé,Either,Rosé,Rosé,A rosé wine.
+Rosé,Either,Provence-style Rosé,Provence-style Rosé,"A crisp, dry style of Rosé with distinctive salty minerality. Often made with grapes such as Grenache, Cinsault, Syrah and Mourvedre."
+Rosé,Either,Tavel-style Rosé,Tavel-style Rosé,A savory and rich style of Rosé with more body than other styles of Rosé. Mainly made with Grenache and Cinsault. 
+Orange,Either,Orange,Orange,A skin-contact white wine.
+Sparkling, Either,Sparkling,Sparkling,A sparkling wine.
+Sparkling,Either,Sparkling Rosé,Sparkling Rosé,A pink sparkling wine.
+Sparkling,Either,Champagne-style Sparkling,Champagne-style Sparkling,"A sparkling wine made in the traditional Champenoise method, using any or all of the following varieties: Champagne, Pinot Noir and Pinor Meunier."
+Sparkling,Either,Cava-style Sparkling,Cava-style Sparkling,A sparkling wine made in the traditional Champenoise method but primarily with the Macabeo grape.
+Sparkling,Either,Sekt-style Sparkling,Sekt-style Sparkling,"A dry, low-alcohol (as low as 6%!) style of sparkling wine that can be made either using the traditional or tank method."
+Sparkling,Either,Prosecco-style Sparkling,Prosecco-style Sparkling,A sparkling wine made with Glera grapes using the tank method. Typically a little sweeter than other styles of sparkling wine.
+Sparkling,Either,Pét nat,Pét nat,A light sparkling wine made using the ancestral method - bottling prior to fully completing the first fermentation.
+Fortified/Dessert,Blend,Sauternes-style Blend,Sauternes-style Blend,"A sweet wine consisting of Semillon, Sauvignon Blanc and Muscadelle grapes that have been affected by botrytis. "
+Fortified/Dessert,Either,Ice wine,Ice wine,
+Fortified/Dessert,Either,Port-style wine,Port-style wine,
+Fortified/Dessert,Either,Madeira-style wine,Madeira-style wine,
+Fortified/Dessert,Either,Vermouth,Vermouth,
+Fortified/Dessert,Either,Other,Other Fortified,
+Fortified/Dessert,Either,Other,Other Dessert,
