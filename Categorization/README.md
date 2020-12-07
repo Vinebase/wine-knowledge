@@ -78,3 +78,14 @@ Any single-varietal Chardonnay that is produced around the world will fall into 
 For blends, wine style is a little different - a (dry) blend of Semillon and Sauvignon Blanc is likely to be a Bordeaux-style White Blend. If it has not been made in the Bordeaux style, it can be assigned a catch-all wine style: 'White Blend'. 
 
 A similar mechanism can be used as a catch-all for wine styles in single-varietal wines. It would be overkill to assign a different wine style to every single grape variety. Grape varieties that are less common can be assigned a wine style such as 'Other Red' or 'Other White'. 
+
+_______________________
+### Examples
+
+See below a few examples of how a wine could be classified (in tabular format): 
+
+| Wine name | Category | Region | Grape Variety | Grape Clone | Percentage | Single-Varietal or Blend | Wine Style |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- |
+| Ranch Road Vineyards - Dry Creek Cabernet Sauvignon, 2016| Red | Dry Creek Valley | Cabernet Sauvignon | | 100 | Single-Varietal | California-style Cabernet Sauvignon
+| Monis Cellars - "VVS" Syrah, 2018 | Red | Santa Barbara | Syrah | | 97 | Single-Varietal | Northern Rhône-style Syrah
+| Monis Cellars - "VVS" Syrah, 2018 | Red | Santa Barbara | Viognier | | 3 | Single-Varietal | Northern Rhône-style Syrah
