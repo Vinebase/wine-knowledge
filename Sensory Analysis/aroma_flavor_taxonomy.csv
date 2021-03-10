@@ -79,10 +79,8 @@ Earth Inorganic,Rocks,Flint
 Earth Inorganic,Rocks,Granite
 Earth Inorganic,Rocks,Gravel
 Earth Inorganic,Rocks,Limestone
-Earth Inorganic,Rocks,Mineral
 Earth Inorganic,Rocks,Minerality
 Earth Inorganic,Rocks,Rocks
-Earth Inorganic,Rocks,Rocky
 Earth Inorganic,Rocks,Slate
 Earth Inorganic,Rocks,Stone
 Earth Inorganic,Rocks,Struck Flint
@@ -120,17 +118,15 @@ Flower,Flowery,Hibiscus
 Flower,Flowery,Jasmine
 Flower,Flowery,Lavender
 Flower,Flowery,Lilac
-Flower,Flowery,Nectar
 Flower,Flowery,Orange Blossom
 Flower,Flowery,Perfumed
 Flower,Flowery,Petal
 Flower,Flowery,Pollen
 Flower,Flowery,Potpourri
 Flower,Flowery,Purple Flower
-Flower,Flowery,Rose
 Flower,Flowery,Rose Petal
 Flower,Flowery,Rosewater
-Flower,Flowery,Spring Flower
+Flower,Flowery,Spring Flowers
 Flower,Flowery,Violet
 Flower,Flowery,Violet Rose
 Flower,Flowery,White Blossom
@@ -196,11 +192,8 @@ Fruit,Dark Fruit,Stewed Plum
 Fruit,Dried Fruit,Cooked
 Fruit,Dried Fruit,Fig
 Fruit,Dried Fruit,Prune
-Fruit,Dried Fruit,Prune Raisin
 Fruit,Dried Fruit,Dried Apricot
 Fruit,Dried Fruit,Raisin
-Fruit,Dried Fruit,Raisin Prune
-Fruit,Dried Fruit,Stewed Prune
 Fruit,Fruity,Fruit
 Fruit,Fruity,Fruit-Forward
 Fruit,Fruity,Fruity
@@ -369,9 +362,7 @@ Vegetal,Fresh Herbs,Dill
 Vegetal,Fresh Herbs,Dried Herb
 Vegetal,Fresh Herbs,Grass
 Vegetal,Fresh Herbs,Grilled Herbs
-Vegetal,Fresh Herbs,Herb
 Vegetal,Fresh Herbs,Herbacious
-Vegetal,Fresh Herbs,Herbs
 Vegetal,Fresh Herbs,Lemongrass
 Vegetal,Fresh Herbs,Marjoram
 Vegetal,Fresh Herbs,Meditteranean Herbs
@@ -414,7 +405,7 @@ Vegetal,Vegetable,Savory
 Vegetal,Vegetable,Tomato
 Vegetal,Vegetable,Umami
 Vegetal,Vegetable,Vegetal
-Vegetal,Vegetables,Jalapeno
+Vegetal,Vegetable,Jalapeno
 Woody,Oak,Oak
 Woody,Resinous,American Oak
 Woody,Resinous,Bark
@@ -426,9 +417,7 @@ Woody,Resinous,Hickory
 Woody,Resinous,Maple
 Woody,Resinous,Neutral Oak
 Woody,Resinous,New Oak
-Woody,Resinous,New Wood
 Woody,Resinous,Oak
-Woody,Resinous,Oak-Driven
 Woody,Resinous,Over-Oaked
 Woody,Resinous,Pine
 Woody,Resinous,Resin
@@ -449,13 +438,11 @@ Woody,Toasted,Buttery Toast
 Woody,Toasted,Campfire
 Woody,Toasted,Charred Wood
 Woody,Toasted,Cigar
-Woody,Toasted,Cigar Box
 Woody,Toasted,Coffee
 Woody,Toasted,Espresso
 Woody,Toasted,Hickory Smoke
 Woody,Toasted,Incense
 Woody,Toasted,Smoke
 Woody,Toasted,Smoked Meat
-Woody,Toasted,Smoky
 Woody,Toasted,Toast
-Woody,Toasted,Toasty Oak
+Woody,Toasted,Toasted Oak
