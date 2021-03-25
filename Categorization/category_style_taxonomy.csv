@@ -19,7 +19,7 @@ White,Varietal,Chenin Blanc,Chenin Blanc,A wine made with Chenin Blanc grapes.
 White,Varietal,Muscat Blanc,Muscat Blanc,A wine made with Muscat Blanc grapes.
 White,Varietal,Viognier,Viognier,A wine made with Viognier grapes.
 White,Varietal,Semillon,Semillon,A wine made with Semillon grapes.
-White,Varietal,Other,Other White,"A white wine made with other grape varietals, not listed in this overview."
+White,Varietal,Other,Uncommon White,"A white wine made with other grape varietals, not listed in this overview."
 White,Blend,Other,White Blend,A white wine that is a blend of different grapes.
 White,Blend,Bordeaux-style White Blend,Bordeaux-style White Blend,"A blend of Sauvignon Blanc and Semillon grapes, sometimes including the lesser-known Muscadelle."
 White,Blend,Rhône-style White Blend,Rhône-style White Blend,"An aromatic, full-bodied white wine that contains at least two Rhone varieties such as Viognier, Marsanne, Roussanne and Grenache Blanc."
@@ -44,7 +44,7 @@ Red,Varietal,Nebbiolo,Nebbiolo,A wine made with Nebbiolo grapes.
 Red,Varietal,Grenache,Grenache,A wine made with Grenache grapes.
 Red,Varietal,Sangiovese,Sangiovese,A wine made with Sangiovese grapes.
 Red,Varietal,Malbec,Malbec,A wine made with Malbec grapes.
-Red,Varietal,Other,Other Red,"A red wine made with other red wine grapes, not listed in this overview. "
+Red,Varietal,Other,Uncommon Red,"A red wine made with other red wine grapes, not listed in this overview. "
 Red,Blend,Bordeaux-style Blend,Bordeaux-style Red Blend,"A blend of two or more of the classic Bordeaux varieties: Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Carmenere and Malbec."
 Red,Blend,GSM Blend,GSM Blend,"A blend of Grenache, Syrah and Mourvedre, best known for its origins in the Southern Rhône region of France."
 Red,Blend,Super Tuscan,Super Tuscan Blend,A blend of Bordeaux varietals and (often) Sangiovese and/or Syrah.
