@@ -10,7 +10,7 @@ We believe that education is the key to empowering people to choose better wine.
 
 Education begins with common standards around how we talk about wine - a lingua franca for the wine world. This repository contains taxonomies and guidelines for how we can talk about things like wine categorization, sensory analysis, terroir, winemaking techniques and viticulture techniques.
 
-This is a work in progress and we are always looking to evolve the taxonomies presented here. Please submit a PR for any ideas for improvement you may have, or contact roald@vinebase.com.
+This is a work in progress and we are always looking to evolve the taxonomies presented here. Please submit a PR for any ideas for improvement you may have, or contact paige@vinebase.com.
 
 ## Taxonomies
 
